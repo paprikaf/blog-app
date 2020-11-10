@@ -17,5 +17,4 @@ export default ( {comments} ) => {
     })
     
     return <ul> {rendererComments} </ul> 
-    return <div></div>
 };
